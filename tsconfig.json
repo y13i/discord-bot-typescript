@@ -1,0 +1,13 @@
+{
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "declaration": true,
+    "sourceMap": true,
+    "declarationMap": true,
+    "strict": true,
+    "downlevelIteration": true,
+    "resolveJsonModule": true,
+    "lib": ["ESNext"],
+    "outDir": "dist"
+  }
+}
