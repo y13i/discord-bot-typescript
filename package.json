@@ -16,7 +16,7 @@
   "devDependencies": {
     "@types/luxon": "1.25.1",
     "@types/minimist": "1.2.1",
-    "@types/node": "11.15.44",
+    "@types/node": "11.15.54",
     "@types/ws": "7.4.0",
     "@typescript-eslint/eslint-plugin": "4.14.1",
     "@typescript-eslint/parser": "4.14.1",
