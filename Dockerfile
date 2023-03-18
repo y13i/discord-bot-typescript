@@ -1,4 +1,4 @@
-FROM node:14.15.4 AS build
+FROM node:14.21.3 AS build
 
 RUN mkdir /app
 WORKDIR /app
