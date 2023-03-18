@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "discord.js": "12.5.1",
-    "luxon": "1.25.0",
+    "luxon": "1.28.1",
     "minimist": "1.2.5",
     "winston": "3.3.3"
   },
   "devDependencies": {
-    "@types/luxon": "1.25.1",
+    "@types/luxon": "1.27.1",
     "@types/minimist": "1.2.1",
     "@types/node": "11.15.44",
     "@types/ws": "7.4.0",
